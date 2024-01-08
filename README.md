@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 
 ###
 <p align="left">Here are some of the projects : </p>
-<p  align="left">LMS_MERN Stack: https://github.com/TheNikhilChauhan/LMS_MERN </p><br>
+<p  align="left">LMS_MERN Stack: https://github.com/TheNikhilChauhan/LMS_MERN </p>
 <p  align="left">Pokedex React Project: https://github.com/TheNikhilChauhan/Pokedex_React_Project </p><br>
 
-<p align="left">Here are some of the exciting projects I'm currently working on: </p>
+<p align="left">Here is the exciting project I'm currently working on: </p>
 <p align="left">Ecommerce Website(MERN): https://github.com/TheNikhilChauhan/Ecommerce_FullStack </p><br>
 
 ###
