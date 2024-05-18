@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 
 <p align="left">Here is the exciting project I'm currently working on: </p>
 
-<p align="left">Movies Review Website(MERN): https://github.com/TheNikhilChauhan/MERN-Movies-App </p><br>
+<p align="left">Movies Review Website(MERN): https://github.com/TheNikhilChauhan/MERN-Movies-App </p><be>
+
+<p align="left">Learning NextJs with Project: https://github.com/TheNikhilChauhan/Project-with-NextJs </p><br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
