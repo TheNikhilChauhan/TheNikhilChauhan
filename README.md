@@ -71,7 +71,13 @@ Here are some ideas to get you started:
 
 <p align="left">Movies Review Website(MERN): https://github.com/TheNikhilChauhan/MERN-Movies-App </p><be>
 
-<p align="left">Learning NextJs with Project: https://github.com/TheNikhilChauhan/Project-with-NextJs </p><br>
+<p align="left">Learning NextJs with Project:
+  Frontend: https://github.com/TheNikhilChauhan/Project-with-NextJs 
+  Next Auth: https://github.com/TheNikhilChauhan/NextJS-with-auth
+  FullStack: https://github.com/TheNikhilChauhan/mysteryMessage_NextJs
+</p>
+
+<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
