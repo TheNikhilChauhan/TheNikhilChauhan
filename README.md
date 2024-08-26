@@ -65,11 +65,18 @@ Here are some ideas to get you started:
 <p align="left">Here are some of the projects : </p>
 <p  align="left">LMS_MERN Stack: https://github.com/TheNikhilChauhan/LMS_MERN </p>
 <p  align="left">Pokedex React Project: https://github.com/TheNikhilChauhan/Pokedex_React_Project </p>
-<p align="left">Ecommerce Website(MERN): https://github.com/TheNikhilChauhan/Ecommerce_FullStack </p><br>
+<p align="left">Ecommerce Website(MERN): https://github.com/TheNikhilChauhan/Ecommerce_FullStack </p>
+<p align="left"><ul>Airline System (Backend): 
+  <li>Airline Booking System: https://github.com/TheNikhilChauhan/AirliineBookingSystem</li>
+  <li>Airline Booking Service: https://github.com/TheNikhilChauhan/Airline-Booking-Service</li>
+  <li>Reminder Service: https://github.com/TheNikhilChauhan/Reminder-Service</li>
+</ul></p><br>
 
 <p align="left">Here is the exciting project I'm currently working on: </p>
 
-<p align="left">Movies Review Website(MERN): https://github.com/TheNikhilChauhan/MERN-Movies-App </p><be>
+<p align="left">Twitter Dev (Backend): https://github.com/TheNikhilChauhan/Twitter_dev </p><be>
+
+<p align="left">DSA in JavaScript: https://github.com/TheNikhilChauhan/DataStructuresAlgorithm</p>
 
 <p align="left"><ul>Learning NextJs with Project:
   <li>Frontend: https://github.com/TheNikhilChauhan/Project-with-NextJs </li>
@@ -77,6 +84,7 @@ Here are some ideas to get you started:
   <li>FullStack: https://github.com/TheNikhilChauhan/mysteryMessage_NextJs</li>
     </ul>
 </p>
+
 
 <br>
 ###
