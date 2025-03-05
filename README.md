@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm an MCA pass out passionate about technology and software development. Here's a little bit about me:<br><br>- 🔭  I’m currently working as an Intern at Physics Wallah Pvt. Ltd.<br>- 📚I'm constantly fueled by my curiosity and have an good appetite for learning. My current obsession is mastering Redux Toolkit, a powerful state management library in the world of web development. Also I'm deeply exploring how Redux Toolkit can seamlessly integrate with the backend using Node.js.<br>- ⚡ In my precious moments of leisure, you'll find me indulging in a diverse range of activities. Riding my motorbike takes me on thrilling adventures, not only on the road but also within the depths of my mind, as it helps me find clarity.
+<p align="left">I'm an MCA pass out passionate about technology and software development. Here's a little bit about me:<br><br>- 🔭  I’m currently working as an Intern at Physics Wallah Pvt. Ltd.<br>- 📚I'm constantly fueled by my curiosity and have an good appetite for learning. My current obsession is mastering NextJS. <br>- ⚡ In my precious moments of leisure, you'll find me indulging in a diverse range of activities. Riding my motorbike takes me on thrilling adventures, not only on the road but also within the depths of my mind, as it helps me find clarity.
 
 📚 I'm an avid reader of fictional books, and each novel is a passport to a different world, where I can explore new realms of imagination and expand my horizons.
 
