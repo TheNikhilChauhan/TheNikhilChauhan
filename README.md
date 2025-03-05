@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 <p  align="left">LMS_MERN Stack: https://github.com/TheNikhilChauhan/LMS_MERN </p>
 <p  align="left">Pokedex React Project: https://github.com/TheNikhilChauhan/Pokedex_React_Project </p>
 <p align="left">Ecommerce Website(MERN): https://github.com/TheNikhilChauhan/Ecommerce_FullStack </p>
+<p align="left">Medium (FullStack): https://github.com/TheNikhilChauhan/Medium-Project</p>
+<p align="left">Payment_Wallet(FullStack) : https://github.com/TheNikhilChauhan/payment_appp>
 <p align="left"><ul>Airline System (Backend): 
   <li>Airline Booking System: https://github.com/TheNikhilChauhan/AirliineBookingSystem</li>
   <li>Airline Booking Service: https://github.com/TheNikhilChauhan/Airline-Booking-Service</li>
@@ -74,16 +76,11 @@ Here are some ideas to get you started:
 
 <p align="left">Here is the exciting project I'm currently working on: </p>
 
-<p align="left">Twitter Dev (Backend): https://github.com/TheNikhilChauhan/Twitter_dev </p><be>
+<p align="left">TPayment-Gateway-LMS (Backend): </p><be>
 
 <p align="left">DSA in JavaScript: https://github.com/TheNikhilChauhan/DataStructuresAlgorithm</p>
 
-<p align="left"><ul>Learning NextJs with Project:
-  <li>Frontend: https://github.com/TheNikhilChauhan/Project-with-NextJs </li>
-  <li>Next Auth: https://github.com/TheNikhilChauhan/NextJS-with-auth </li>
-  <li>FullStack: https://github.com/TheNikhilChauhan/mysteryMessage_NextJs</li>
-    </ul>
-</p>
+<p align="left">Second_Brain(fullStack): </p>
 
 
 <br>
@@ -111,6 +108,17 @@ Here are some ideas to get you started:
   <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1648915248" height="40" alt="MongoDB logo"  />
   <img width="15" />
   <img src="https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg" height="50" alt="Redux logo"  />
+  <img width="15" />
+  <img src="https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/" height="50" alt="NextJS"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKW3K9lVbiDuJNneYEqt0QNSSM_lE4UUOdrQ&s" height="50" alt="Prisma"  />
+  <img width="15" />
+  <img src="https://ccie.tv/content/images/2019/08/docker.svg" height="50" alt="Docker"  />
+  <img width="15" />
+  <img src="https://i.ytimg.com/vi/YX5yoApjI3M/sddefault.jpg?v=61b209a3" height="50" alt="Turbo-repo(monorepo)"  />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="50" alt="TypeScript"  />
+  <img width="15" />
 </div>
 
 <br>
