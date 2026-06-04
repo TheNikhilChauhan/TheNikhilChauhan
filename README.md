@@ -1,66 +1,218 @@
-
-
-<!--
-**TheNikhilChauhan/TheNikhilChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+````md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Nikhil%20Chauhan&fontSize=55&fontColor=fff&animation=fadeIn&desc=Building%20AI%20Agents%20%7C%20Full-Stack%20Developer&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:7c3aed,100:22d3ee&text=Nikhil%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=62" />
 </p>
+
 <h1 align="center">⚡ Welcome to My Digital Domain ⚡</h1>
 
 <p align="center">
-Building AI Agents, Web Applications, and Systems that solve real problems.
+  <b>Building AI Agents, Full-Stack Apps, and Real-World Software Projects</b>
 </p>
 
 <p align="center">
-🌌 Full Stack Developer • 🤖 AI Builder • ⚔️ Lifelong Learner
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents-22d3ee?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-ec4899?style=for-the-badge" />
 </p>
 
-<div align="center">
+---
 
-JavaScript • TypeScript • React • Next.js
+## 👨‍💻 About Me
 
-Node.js • Express • MongoDB
+```js
+const nikhil = {
+  role: "Full Stack Developer",
+  focus: ["AI Agents", "Web Development", "System Design", "DSA"],
+  currentlyBuilding: "AI Project Generator Agent",
+  learning: ["Next.js", "AI Engineering", "Backend Architecture"],
+  goal: "Build production-grade AI powered applications",
+};
+```
 
-AI Agents • LLMs • System Design
+---
 
-Git • Linux • Docker
+## 🚀 Featured Projects
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+### 🤖 AI Project Generator Agent
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true
+An AI-powered project generator that creates frontend projects using Node.js and LLMs.
+
+**Features**
+- Generates HTML, CSS and JS files
+- Uses Node.js child process
+- Takes user prompts
+- Automates basic project setup
+- Good beginner AI agent project
+
+**Tech Used**
+
+`Node.js` `JavaScript` `LLM` `Child Process`
+
+</td>
+<td width="50%">
+
+### 🎓 Learning Management System
+
+A full-stack LMS platform for students and instructors.
+
+**Features**
+- Authentication
+- Course management
+- Lessons and modules
+- Role-based dashboard
+- Modern UI
+
+**Tech Used**
+
+`Next.js` `React` `MongoDB` `Tailwind CSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 AI Chat Assistant
+
+A chatbot-style AI assistant that understands user prompts and gives smart responses.
+
+**Features**
+- Prompt-based response system
+- API integration
+- Clean UI
+- Real-world AI app practice
+
+**Tech Used**
+
+`React` `Node.js` `AI API`
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Practice Projects
+
+Small backend projects to understand APIs, databases, authentication and architecture.
+
+**Focus Areas**
+- REST APIs
+- MongoDB models
+- Express middleware
+- Authentication
+- Error handling
+
+**Tech Used**
+
+`Node.js` `Express` `MongoDB` `Mongoose`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,docker" />
 </p>
 
-## ⚔️ Developer Philosophy
+---
 
-> "Talent is something you make bloom. Instinct is something you polish."
->
-> — Oikawa Tooru
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-0f172a?style=for-the-badge&logo=googlegemini&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=for-the-badge&logo=openai&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=leetcode&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a855f7&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=a855f7&line=22d3ee&point=ffffff" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
 
 ## 🎯 Current Quest
 
-- Building AI Agents
-- Learning System Design
-- Developing an LMS Platform
-- Mastering DSA
-- Exploring AI Engineering
+- 🤖 Build better AI agents
+- 🌐 Master full-stack development
+- ⚙️ Learn system design deeply
+- 🧠 Improve DSA and problem solving
+- 🚀 Create production-level projects
+- 🛠️ Understand real backend architecture
 
+---
 
-  
+## ⚔️ Developer Philosophy
+
+> “First make it work, then make it right, then make it fast.”
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=a855f7" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile ❤️</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,50:7c3aed,100:0f172a" />
+</p>
+````
