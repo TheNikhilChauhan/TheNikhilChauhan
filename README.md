@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:7c3aed,100:22d3ee&text=Nikhil%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=62" />
 </p>
@@ -215,4 +215,4 @@ Small backend projects to understand APIs, databases, authentication and archite
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,50:7c3aed,100:0f172a" />
 </p>
-````
+
