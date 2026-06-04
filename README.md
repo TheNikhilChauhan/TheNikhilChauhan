@@ -137,13 +137,13 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheNikhilChauhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheNikhilChauhan&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheNikhilChauhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheNikhilChauhan&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -167,7 +167,11 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheNikhilChauhan/TheNikhilChauhan/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheNikhilChauhan/TheNikhilChauhan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheNikhilChauhan/TheNikhilChauhan/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheNikhilChauhan/TheNikhilChauhan/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
