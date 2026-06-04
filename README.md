@@ -137,8 +137,13 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheNikhilChauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a855f7&text_color=e5e7eb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNikhilChauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -146,12 +151,12 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheNikhilChauhan&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com/?user=TheNikhilChauhan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Recent Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNikhilChauhan&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=a855f7&line=22d3ee&point=ffffff" />
