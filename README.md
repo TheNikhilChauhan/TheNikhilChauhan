@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=TheNikhilChauhan&style=for-the-badge&color=7c3aed" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-22d3ee?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-a855f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-System%20Design-ec4899?style=for-the-badge" />
@@ -137,8 +137,8 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a855f7&text_color=e5e7eb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheNikhilChauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a855f7&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNikhilChauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com?user=TheNikhilChauhan&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" />
 </p>
 
 ---
@@ -154,7 +154,7 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=a855f7&line=22d3ee&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNikhilChauhan&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=a855f7&line=22d3ee&point=ffffff" />
 </p>
 
 ---
@@ -162,7 +162,7 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TheNikhilChauhan/TheNikhilChauhan/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -170,7 +170,7 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheNikhilChauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -195,7 +195,7 @@ Small backend projects to understand APIs, databases, authentication and archite
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TheNikhilChauhan">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
